@@ -1,0 +1,12 @@
+Study Drill Number 4: 
+
+Research Floating Point Number:
+
+For floating point numbers you write a period after the number, and a zero (if it's a whole number).
+
+Like this:
+
+1.0 <---- Floating point.
+
+1 <------- integer
+
